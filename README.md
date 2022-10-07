@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sittikhdjh
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data or Business Analytics Projects
+- 💞️ I’m looking to collaborate on Data or Business Analytics Project
 - 📫 How to reach me Sittikhadijaah@gmail.com
 
 <!---
