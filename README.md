@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Khadijah
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning all related about Data
 - 💞️ I’m looking to collaborate on Data or Business Analytics and ML Project
 - 📫 How to reach me; Email -> Sittikhadijaah@gmail.com ,
                       Linkedin -> https://www.linkedin.com/in/khadijah-sitti-6a84781b8/ ,
+                      Kaggle -> https://www.kaggle.com/code/sittikhadijah/google-capstone-project-bellabeat-analysis ,
                       Tableau -> https://public.tableau.com/app/profile/khadijah2395 ,
                       Twitter -> https://twitter.com/sttkhdjh ,
                       Instagram -> https://instagram.com/sittikhdjh
