@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khadijah
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning all related about Data
+- 🌱 I’m currently learning all about Analytics
 - 💞️ I’m looking to collaborate on Data or Business Analytics and ML Project
 - 📫 How to reach me; Email -> Sittikhadijaah@gmail.com ,
                       Linkedin -> https://www.linkedin.com/in/khadijah-sitti-6a84781b8/ ,
